@@ -43,7 +43,7 @@ p,li
 }
 
 
-#page,#page1{
+#page,#page1,#page3{
 	display:none;
 }
 #page2{
@@ -64,7 +64,7 @@ p,li
 } */
 
 
-#page,#page2,#page1{
+#page,#page2,#page1,#page3{
 	/* width: 794px; */
 	/* height: 29.7cm; */
 	width: 21cm;
