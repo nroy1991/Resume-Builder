@@ -278,7 +278,7 @@ td.header {
 
 
 
-#page.verdana-sans * {
+/* #page.verdana-sans * {
 	font-family: "Verdana", sans-serif;
 }
 #page.verdana-serif * {
@@ -289,7 +289,7 @@ td.header {
 }
 #page.droid * {
 	font-family: 'Droid Serif', serif;
-}
+} */
 .droid strong , .verdana-sans strong , .verdana-serif strong {
 	font-weight: 700;
 }
