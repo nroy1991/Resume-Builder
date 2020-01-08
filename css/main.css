@@ -52,8 +52,8 @@ p,li
 	
 }
 #page21{
-	width:21cm;
-	margin-left:-1.3cm;
+	width:22.5cm;
+	margin-left:-1.75cm;
 	margin-top:-12px;
 	
 }
@@ -67,7 +67,7 @@ p,li
 #page,#page2,#page1,#page3{
 	/* width: 794px; */
 	/* height: 29.7cm; */
-	width: 21cm;
+	width: 22cm;
 	background-color: white;
 	margin: 1% auto 1% auto;
 	padding: 0.2cm 1.3cm 1cm 1.3cm;
